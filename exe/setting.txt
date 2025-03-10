@@ -1,3 +1,3 @@
 images=data/1.png,data/2.png,data/3.png
-savepath=C:\Users\hyeon\OneDrive\Desktop\test
+savepath=out
 kernel=3
